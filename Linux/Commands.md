@@ -1,10 +1,35 @@
 # Linux Commands
 
 ## ls
-List files in directory
+List files in a directory
+
+### Examples
+ls
+ls -la
+ls /home
+
+### Notes
+- `-l` shows detailed list
+- `-a` shows hidden files
+
+---
 
 ## cd
 Change directory
 
+### Examples
+cd /home
+cd ..
+cd ~
+
+### Notes
+- `..` goes up one level
+- `~` goes to home directory
+
+---
+
 ## pwd
-Show current directory
+Print working directory
+
+### Example
+pwd
