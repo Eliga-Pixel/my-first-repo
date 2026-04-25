@@ -30,6 +30,12 @@ cd ~
 
 ## pwd
 Print working directory
+mkdir
+rm
+cp
+mv
+cat
+touch
 
 ### Example
 pwd
