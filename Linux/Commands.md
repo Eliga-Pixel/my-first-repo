@@ -1,2 +1,10 @@
-My first local Git file 
-Learning Git step by step.
+# Linux Commands
+
+## ls
+List files in directory
+
+## cd
+Change directory
+
+## pwd
+Show current directory
