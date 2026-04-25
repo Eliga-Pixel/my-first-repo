@@ -1,17 +1,21 @@
-# My First Repo 🚀
+# Cybersecurity Journey 🚀
 
 ## About Me
-I'm learning GitHub, tech, and cybersecurity.
+I am learning cybersecurity, Linux, networking, and Git from scratch.
 
-## What I'm Doing
-- Learning Git & GitHub
-- Practicing daily
-- Building real projects
-
-## Skills I'm Working On
-- Linux
+## Current Focus
+- Linux fundamentals
 - Networking basics
-- Cybersecurity fundamentals
- 
+- Git & GitHub workflows
+
+## Repository Structure
+- linux/ → commands and practice
+- networking/ → concepts and notes
+- cybersecurity/ → security fundamentals
+
+## Progress Log
+- Day 1: Installed Git and pushed first repo
+- Day 2: Practicing Linux commands
+
 ## Goal
-Become skilled enough to work in tech and cybersecurity.
+Become job-ready in cybersecurity and build real-world skills.
